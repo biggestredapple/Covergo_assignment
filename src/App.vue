@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import Home from "./components/Home.vue";
 import Detail from "./components/Detail.vue";
+import Summary from "./components/Summary.vue";
 </script>
 
 <template>
